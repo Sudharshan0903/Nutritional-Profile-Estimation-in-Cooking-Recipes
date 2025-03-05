@@ -26,14 +26,10 @@ This project estimates the **nutritional profile** of cooking recipes using **ma
 - **Python** (ML models, data processing)  
 - **Scikit-Learn** (Machine learning algorithms)  
 - **Flask/Django** (If using a web-based interface)  
-- **MySQL/PostgreSQL** (If using a database for storage)  
-Python (ML models, data processing)
-Scikit-Learn (Machine learning algorithms)
-Flask/Django (If using a web-based interface)
-MySQL/PostgreSQL (If using a database for storage)
-
-📜 Future Enhancements
-🔹 Enhance the UI/UX for better user experience
-🔹 Improve the accuracy of ML models
-🔹 Integrate deep learning for advanced food recognition
-🔹 Develop a mobile app version
+- **MySQL/PostgreSQL** (If using a database for storage)
+  
+## 📜 Future Enhancements
+- Enhance the UI/UX for better user experience
+- Improve the accuracy of ML models
+- Integrate deep learning for advanced food recognition
+- Develop a mobile app version
